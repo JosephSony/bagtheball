@@ -124,7 +124,7 @@ class Game{
 
     }
     showRank() {
-        alert("Awesome !! You finished the game! You score is " +  player.score)
+        alert("Awesome !! You finished the game! Your score is " +  player.score)
     }
 
 gameOver() {
